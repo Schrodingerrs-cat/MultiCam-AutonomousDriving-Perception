@@ -1,6 +1,6 @@
 # MultiCam-AutonomousDriving-Perception — Tesla FSD-Style 4-Camera Pipeline
 
-**RBE549 Computer Vision (Spring 2026) — Project 3, Phase 3**
+**RBE549 Computer Vision (Spring 2026) — Project 3**
 
 A multi-camera autonomous-driving perception system that reproduces the look and feel of Tesla's Full Self-Driving visualization. The pipeline ingests synchronized dashcam video from a 2023 Tesla Model S (front, back, left, right), runs a stack of state-of-the-art deep networks for detection, segmentation, metric depth, tracking, pose, and monocular 3D, fuses every camera into a single ego-frame 3D scene, and renders a Tesla-style overlay that highlights vehicles, pedestrians, lanes, traffic lights, road signs, small obstacles, brake / turn-indicator events, speed bumps, and predicted collision risk.
 
