@@ -1,0 +1,50 @@
+DINOv2 Vehicle Sub-Classification — Training Report
+============================================================
+
+Model: facebook/dinov2-small
+Embedding dim: 384
+Classes: ['sedan', 'suv', 'hatchback', 'pickup', 'truck']
+Total samples: 20812 (train=16649, val=4163)
+Device: cpu
+
+sklearn LogisticRegression
+----------------------------------------
+Val accuracy: 0.889
+Training time: 127.09s
+
+              precision    recall  f1-score   support
+
+       sedan       0.93      0.84      0.88      1604
+         suv       0.88      0.89      0.88      1141
+   hatchback       0.46      0.88      0.61       128
+      pickup       0.34      0.57      0.43        49
+       truck       0.97      0.97      0.97      1241
+
+    accuracy                           0.89      4163
+   macro avg       0.72      0.83      0.75      4163
+weighted avg       0.91      0.89      0.89      4163
+
+Confusion matrix:
+  [1349, 115, 119, 10, 11]
+  [69, 1010, 11, 32, 19]
+  [12, 3, 113, 0, 0]
+  [9, 5, 0, 28, 7]
+  [8, 19, 1, 12, 1201]
+
+PyTorch nn.Linear
+----------------------------------------
+Val accuracy: 0.8352
+Training time: 0.6s
+
+              precision    recall  f1-score   support
+
+       sedan       0.93      0.73      0.82      1604
+         suv       0.84      0.83      0.83      1141
+   hatchback       0.32      0.95      0.48       128
+      pickup       0.23      0.84      0.36        49
+       truck       0.98      0.96      0.97      1241
+
+    accuracy                           0.84      4163
+   macro avg       0.66      0.86      0.69      4163
+weighted avg       0.89      0.84      0.85      4163
+
