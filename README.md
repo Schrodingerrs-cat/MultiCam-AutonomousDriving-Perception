@@ -1,4 +1,4 @@
-# MultiCam-AutonomousDriving-Perception — Tesla FSD-Style 4-Camera Pipeline
+# MultiCam-AutonomousDriving-Perception 
 
 **RBE549 Computer Vision (Spring 2026) — Project 3**
 
