@@ -6,6 +6,18 @@ A multi-camera autonomous-driving perception system that reproduces the look and
 
 ---
 
+## Product Pitch Video
+
+**[▶ Watch the Product Pitch Video (MP4, 63 MB)](ProductPitchVideo.mp4)**
+
+Or play it directly in the browser via the GitHub raw URL:
+
+<https://github.com/Schrodingerrs-cat/MultiCam-AutonomousDriving-Perception/raw/main/ProductPitchVideo.mp4>
+
+<video src="https://github.com/Schrodingerrs-cat/MultiCam-AutonomousDriving-Perception/raw/main/ProductPitchVideo.mp4" controls width="100%"></video>
+
+---
+
 ## Authors
 
 **Aryan Shah**
