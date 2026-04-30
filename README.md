@@ -8,9 +8,9 @@ A multi-camera autonomous-driving perception system that reproduces the look and
 
 ## Product Pitch Video
 
-[![Watch the Product Pitch Video on YouTube](https://img.youtube.com/vi/gGSfVuX98d4/maxresdefault.jpg)](https://youtu.be/gGSfVuX98d4 "Click to play the Product Pitch Video on YouTube")
+[![Watch the Product Pitch Video on YouTube](https://img.youtube.com/vi/RKSm6EhEXrM/maxresdefault.jpg)](https://youtu.be/RKSm6EhEXrM "Click to play the Product Pitch Video on YouTube")
 
-**[▶ Watch the Product Pitch Video on YouTube](https://youtu.be/gGSfVuX98d4)**
+**[▶ Watch the Product Pitch Video on YouTube](https://youtu.be/RKSm6EhEXrM)**
 
 > Click the thumbnail above to play the pitch video directly on YouTube.
 
