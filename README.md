@@ -8,13 +8,11 @@ A multi-camera autonomous-driving perception system that reproduces the look and
 
 ## Product Pitch Video
 
-**[▶ Watch the Product Pitch Video (MP4, 63 MB)](ProductPitchVideo.mp4)**
+[![Watch the Product Pitch Video on YouTube](https://img.youtube.com/vi/gGSfVuX98d4/maxresdefault.jpg)](https://youtu.be/gGSfVuX98d4 "Click to play the Product Pitch Video on YouTube")
 
-Or play it directly in the browser via the GitHub raw URL:
+**[▶ Watch the Product Pitch Video on YouTube](https://youtu.be/gGSfVuX98d4)**
 
-<https://github.com/Schrodingerrs-cat/MultiCam-AutonomousDriving-Perception/raw/main/ProductPitchVideo.mp4>
-
-<video src="https://github.com/Schrodingerrs-cat/MultiCam-AutonomousDriving-Perception/raw/main/ProductPitchVideo.mp4" controls width="100%"></video>
+> Click the thumbnail above to play the pitch video directly on YouTube.
 
 ---
 
