@@ -1,3 +1,20 @@
+## Authors
+
+**Aryan Shah**  
+Robotics Engineering  
+Worcester Polytechnic Institute  
+Worcester, MA  
+Email: ajshah1@wpi.edu  
+GitHub: [@Schrodingerrs-cat](https://github.com/Schrodingerrs-cat)
+
+**Anirudh Nallawar**  
+Robotics Engineering  
+Worcester Polytechnic Institute  
+Worcester, MA  
+Email: arnallawar@wpi.edu  
+GitHub: - [@AnirudhN-30](https://github.com/AnirudhN-30)
+
+---
 # MultiCam-AutonomousDriving-Perception 
 
 **RBE549 Computer Vision (Spring 2026) — Project 3**
